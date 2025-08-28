@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "Pallet Town",
+        "."
+    ],
+    "fileStates": {
+        "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets/Outside1 Spring.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets/Outside2 Summer.tsx": {
+            "scaleInDock": 1
+        },
+        "Pallet Town/Pallet Town Spring.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 760,
+                "y": 326
+            }
+        },
+        "Pallet Town/Pallet Town Summer.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 760,
+                "y": 328
+            }
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "Pokemon.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
+}
