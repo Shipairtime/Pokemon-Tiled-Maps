@@ -3,11 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Pallet Town/Pallet Town Summer.tmx",
     "expandedProjectPaths": [
-        "Pallet Town",
-        "."
+        ".",
+        "Pallet Town"
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets/Outside1 Spring.tsx": {
             "scaleInDock": 1
@@ -15,29 +16,84 @@
         "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets/Outside2 Summer.tsx": {
             "scaleInDock": 1
         },
-        "Pallet Town/Pallet Town Spring.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 2,
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Maps/001 TitleScreenAnimation.tmx": {
+            "scale": 0.5065429687499999,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 760,
-                "y": 326
+                "x": 511.3090418353577,
+                "y": 512.296124927704
+            }
+        },
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Maps/019 Exterior.tmx": {
+            "scale": 0.17843424479166667,
+            "selectedLayer": 75,
+            "viewCenter": {
+                "x": 767.7898385478427,
+                "y": 1538.3818297911157
+            }
+        },
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Tilesets/TECH-Animations.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Tilesets/TECH-Assets.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Tilesets/TECH-Buildings.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Tilesets/TECH-Misc..tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Tilesets/TECH-Mounts.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Tilesets/TECH-Nature.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Tilesets/TECH-borders.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Tilesets/passages.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Tilesets/systemtags.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon-Tiled-Maps/Tilesets/Outside1 Spring.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon-Tiled-Maps/Tilesets/Outside2 Summer.tsx": {
+            "scaleInDock": 1
+        },
+        "Pallet Town/Pallet Town Spring.tmx": {
+            "scale": 0.4502604166666666,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 575.2226720647774,
+                "y": 320.9253903990746
             }
         },
         "Pallet Town/Pallet Town Summer.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 2,
+            "scale": 0.4502604166666666,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 760,
-                "y": 328
+                "x": 575.2226720647774,
+                "y": 320.9253903990746
             }
         }
     },
     "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets",
     "map.lastUsedFormat": "tmx",
     "openFiles": [
+        "Pallet Town/Pallet Town Spring.tmx",
+        "Pallet Town/Pallet Town Summer.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
+        "Pallet Town/Pallet Town Spring.tmx",
+        "Pallet Town/Pallet Town Summer.tmx",
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Maps/019 Exterior.tmx",
+        "C:/Users/shipa/Desktop/Pokemon test/Data/Tiled/Maps/001 TitleScreenAnimation.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
