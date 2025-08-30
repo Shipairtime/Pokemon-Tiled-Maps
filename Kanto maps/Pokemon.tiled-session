@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Pallet Town/Pallet Town Summer.tmx",
+    "activeFile": "Pallet Town/Pallet Town Spring.tmx",
     "expandedProjectPaths": [
         ".",
         "Pallet Town"
@@ -46,8 +46,8 @@
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
-        "Pallet Town/Pallet Town Spring.tmx",
-        "Pallet Town/Pallet Town Summer.tmx"
+        "Pallet Town/Pallet Town Summer.tmx",
+        "Pallet Town/Pallet Town Spring.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
