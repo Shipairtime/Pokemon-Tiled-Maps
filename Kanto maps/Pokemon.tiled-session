@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Pallet Town/Pallet Town Spring.tmx",
+    "activeFile": "Pallet Town/Pallet Town Summer.tmx",
     "expandedProjectPaths": [
-        ".",
-        "Pallet Town"
+        "Pallet Town",
+        "."
     ],
     "fileStates": {
         "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets/Outside1 Spring.tsx": {
@@ -15,39 +15,66 @@
         "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets/Outside2 Summer.tsx": {
             "scaleInDock": 1
         },
+        "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets/Outside3 Autumn.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets/Outside4 Winter.tsx": {
+            "scaleInDock": 1
+        },
         "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets/Outside1 Spring.tsx": {
             "scaleInDock": 1
         },
         "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets/Outside2 Summer.tsx": {
             "scaleInDock": 1
         },
-        "Pallet Town/Pallet Town Spring.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 2,
+        "Pallet Town/Pallet Town Autumn.tmx": {
+            "scale": 0.63828125,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 760,
-                "y": 326
+                "x": 576.548347613219,
+                "y": 319.6083231334149
+            }
+        },
+        "Pallet Town/Pallet Town Spring.tmx": {
+            "scale": 0.63828125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 576.548347613219,
+                "y": 319.6083231334149
             }
         },
         "Pallet Town/Pallet Town Summer.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 2,
+            "scale": 0.63828125,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 760,
-                "y": 328
+                "x": 576.548347613219,
+                "y": 319.6083231334149
+            }
+        },
+        "Pallet Town/Pallet Town Winter.tmx": {
+            "scale": 0.63828125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 576.548347613219,
+                "y": 319.6083231334149
             }
         }
     },
-    "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets",
+    "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets",
     "map.lastUsedFormat": "tmx",
+    "map.width": 36,
     "openFiles": [
+        "Pallet Town/Pallet Town Summer.tmx",
+        "Pallet Town/Pallet Town Autumn.tmx",
         "Pallet Town/Pallet Town Spring.tmx",
-        "Pallet Town/Pallet Town Summer.tmx"
+        "Pallet Town/Pallet Town Winter.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
-        "Pallet Town/Pallet Town Summer.tmx",
-        "Pallet Town/Pallet Town Spring.tmx"
+        "Pallet Town/Pallet Town Winter.tmx",
+        "Pallet Town/Pallet Town Spring.tmx",
+        "Pallet Town/Pallet Town Autumn.tmx",
+        "Pallet Town/Pallet Town Summer.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
