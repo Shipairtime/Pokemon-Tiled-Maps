@@ -3,10 +3,8 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Kanto Route 1/Kanto Route 1 Winter.tmx",
+    "activeFile": "Viridian City/Viridian City Spring.tmx",
     "expandedProjectPaths": [
-        "Pallet Town",
-        "Kanto Route 1",
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -31,7 +29,7 @@
         },
         "Kanto Route 1/Kanto Route 1 Autumn.tmx": {
             "scale": 0.5222301136363636,
-            "selectedLayer": 4,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 704.6702026383788,
                 "y": 639.5648034815721
@@ -71,23 +69,23 @@
         },
         "Pallet Town/Pallet Town Autumn.tmx": {
             "scale": 0.63828125,
-            "selectedLayer": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 543.6474908200734,
+                "x": 576.548347613219,
                 "y": 319.6083231334149
             }
         },
         "Pallet Town/Pallet Town Spring.tmx": {
             "scale": 0.63828125,
-            "selectedLayer": 4,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 574.9816401468788,
+                "x": 576.548347613219,
                 "y": 319.6083231334149
             }
         },
         "Pallet Town/Pallet Town Summer.tmx": {
             "scale": 0.63828125,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 576.548347613219,
                 "y": 319.6083231334149
@@ -95,33 +93,39 @@
         },
         "Pallet Town/Pallet Town Winter.tmx": {
             "scale": 0.63828125,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 490.3794369645042,
                 "y": 319.6083231334149
+            }
+        },
+        "Viridian City/Viridian City Spring.tmx": {
+            "scale": 0.4595625,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 800.7615939072487,
+                "y": 639.7388820889433
             }
         }
     },
     "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets",
     "map.height": 40,
     "map.lastUsedFormat": "tmx",
-    "map.width": 44,
+    "map.width": 50,
     "openFiles": [
-        "Kanto Route 1/Kanto Route 1 Spring.tmx",
-        "Kanto Route 1/Kanto Route 1 Summer.tmx",
-        "Kanto Route 1/Kanto Route 1 Autumn.tmx",
-        "Kanto Route 1/Kanto Route 1 Winter.tmx"
+        "Viridian City/Viridian City Spring.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
-        "Kanto Route 1/Kanto Route 1 Spring.tmx",
-        "Kanto Route 1/Kanto Route 1 Summer.tmx",
-        "Kanto Route 1/Kanto Route 1 Autumn.tmx",
-        "Kanto Route 1/Kanto Route 1 Winter.tmx",
-        "Pallet Town/Pallet Town Autumn.tmx",
+        "Viridian City/Viridian City Spring.tmx",
         "Pallet Town/Pallet Town Winter.tmx",
         "Pallet Town/Pallet Town Summer.tmx",
-        "Pallet Town/Pallet Town Spring.tmx"
+        "Pallet Town/Pallet Town Autumn.tmx",
+        "Pallet Town/Pallet Town Spring.tmx",
+        "Kanto Route 1/Kanto Route 1 Winter.tmx",
+        "Kanto Route 1/Kanto Route 1 Summer.tmx",
+        "Kanto Route 1/Kanto Route 1 Spring.tmx",
+        "Kanto Route 1/Kanto Route 1 Autumn.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
