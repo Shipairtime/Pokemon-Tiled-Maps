@@ -3,9 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Viridian City/Viridian City Spring.tmx",
+    "activeFile": "Peweter City/Peweter City Spring.tmx",
     "expandedProjectPaths": [
-        "."
+        "Viridian City",
+        ".",
+        "Kanto Route 1"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -99,6 +101,14 @@
                 "y": 319.6083231334149
             }
         },
+        "Peweter City/Peweter City Spring.tmx": {
+            "scale": 0.43503605769230763,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 832.1149330017959,
+                "y": 736.7205415112586
+            }
+        },
         "Viridian City/Viridian City Spring.tmx": {
             "scale": 0.4595625,
             "selectedLayer": 5,
@@ -109,23 +119,24 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets",
-    "map.height": 40,
+    "map.height": 46,
     "map.lastUsedFormat": "tmx",
-    "map.width": 50,
+    "map.width": 52,
     "openFiles": [
-        "Viridian City/Viridian City Spring.tmx"
+        "Peweter City/Peweter City Spring.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
+        "Peweter City/Peweter City Spring.tmx",
         "Viridian City/Viridian City Spring.tmx",
+        "Kanto Route 1/Kanto Route 1 Autumn.tmx",
         "Pallet Town/Pallet Town Winter.tmx",
         "Pallet Town/Pallet Town Summer.tmx",
         "Pallet Town/Pallet Town Autumn.tmx",
         "Pallet Town/Pallet Town Spring.tmx",
         "Kanto Route 1/Kanto Route 1 Winter.tmx",
         "Kanto Route 1/Kanto Route 1 Summer.tmx",
-        "Kanto Route 1/Kanto Route 1 Spring.tmx",
-        "Kanto Route 1/Kanto Route 1 Autumn.tmx"
+        "Kanto Route 1/Kanto Route 1 Spring.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
