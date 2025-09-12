@@ -3,11 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Peweter City/Peweter City Spring.tmx",
+    "activeFile": "Vermilion City/Vermilion City Autumn.tmx",
     "expandedProjectPaths": [
-        "Viridian City",
         ".",
-        "Kanto Route 1"
+        "Vermilion City"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -29,12 +28,20 @@
         "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets/Outside2 Summer.tsx": {
             "scaleInDock": 1
         },
+        "Cerulean City/Cerulean City Autumn.tmx": {
+            "scale": 0.47128906249999997,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 768.1060920016577,
+                "y": 639.7347699958558
+            }
+        },
         "Kanto Route 1/Kanto Route 1 Autumn.tmx": {
             "scale": 0.5222301136363636,
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 704.6702026383788,
-                "y": 639.5648034815721
+                "y": 638.6073711410309
             }
         },
         "Kanto Route 1/Kanto Route 1 Spring.tmx": {
@@ -42,7 +49,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 704.6702026383788,
-                "y": 639.5648034815721
+                "y": 638.6073711410309
             }
         },
         "Kanto Route 1/Kanto Route 1 Summer.tmx": {
@@ -50,7 +57,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 704.6702026383788,
-                "y": 639.5648034815721
+                "y": 638.6073711410309
             }
         },
         "Kanto Route 1/Kanto Route 1 Winter.tmx": {
@@ -58,7 +65,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 704.6702026383788,
-                "y": 639.5648034815721
+                "y": 638.6073711410309
             }
         },
         "Kanto Route 1/Kanto Route 1.tmx": {
@@ -74,7 +81,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 576.548347613219,
-                "y": 319.6083231334149
+                "y": 318.8249694002448
             }
         },
         "Pallet Town/Pallet Town Spring.tmx": {
@@ -82,7 +89,7 @@
             "selectedLayer": 5,
             "viewCenter": {
                 "x": 576.548347613219,
-                "y": 319.6083231334149
+                "y": 318.8249694002448
             }
         },
         "Pallet Town/Pallet Town Summer.tmx": {
@@ -90,7 +97,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 576.548347613219,
-                "y": 319.6083231334149
+                "y": 318.8249694002448
             }
         },
         "Pallet Town/Pallet Town Winter.tmx": {
@@ -98,45 +105,63 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 490.3794369645042,
-                "y": 319.6083231334149
+                "y": 318.8249694002448
             }
         },
         "Peweter City/Peweter City Spring.tmx": {
             "scale": 0.43503605769230763,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 832.1149330017959,
                 "y": 736.7205415112586
             }
         },
+        "Vermilion City/Vermilion City Autumn.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1278,
+                "y": 720.5
+            }
+        },
+        "Vermilion City/Vermilion City Spring.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 966.6666666666665,
+                "y": 1094
+            }
+        },
         "Viridian City/Viridian City Spring.tmx": {
             "scale": 0.4595625,
-            "selectedLayer": 5,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 800.7615939072487,
-                "y": 639.7388820889433
+                "x": 800.7615939072488,
+                "y": 638.6508907928737
             }
         }
     },
     "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets",
-    "map.height": 46,
+    "map.height": 45,
     "map.lastUsedFormat": "tmx",
-    "map.width": 52,
+    "map.width": 53,
     "openFiles": [
-        "Peweter City/Peweter City Spring.tmx"
+        "Vermilion City/Vermilion City Autumn.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
+        "Vermilion City/Vermilion City Autumn.tmx",
+        "Vermilion City/Vermilion City Spring.tmx",
         "Peweter City/Peweter City Spring.tmx",
-        "Viridian City/Viridian City Spring.tmx",
-        "Kanto Route 1/Kanto Route 1 Autumn.tmx",
-        "Pallet Town/Pallet Town Winter.tmx",
-        "Pallet Town/Pallet Town Summer.tmx",
+        "Cerulean City/Cerulean City Autumn.tmx",
         "Pallet Town/Pallet Town Autumn.tmx",
         "Pallet Town/Pallet Town Spring.tmx",
-        "Kanto Route 1/Kanto Route 1 Winter.tmx",
-        "Kanto Route 1/Kanto Route 1 Summer.tmx",
-        "Kanto Route 1/Kanto Route 1 Spring.tmx"
+        "Pallet Town/Pallet Town Winter.tmx",
+        "Pallet Town/Pallet Town Summer.tmx",
+        "Viridian City/Viridian City Spring.tmx",
+        "Kanto Route 1/Kanto Route 1 Autumn.tmx",
+        "Kanto Route 1/Kanto Route 1 Spring.tmx",
+        "Kanto Route 1/Kanto Route 1 Summer.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
