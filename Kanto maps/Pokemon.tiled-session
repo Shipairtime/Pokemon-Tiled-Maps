@@ -3,10 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Vermilion City/Vermilion City Autumn.tmx",
+    "activeFile": "Celadon City/Celadon City Spring.tmx",
     "expandedProjectPaths": [
         ".",
-        "Vermilion City"
+        "Celadon City",
+        "Peweter City"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -27,6 +28,14 @@
         },
         "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Tilesets/Outside2 Summer.tsx": {
             "scaleInDock": 1
+        },
+        "Celadon City/Celadon City Spring.tmx": {
+            "scale": 0.3750520833333333,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 959.8666851826137,
+                "y": 833.2176086654633
+            }
         },
         "Cerulean City/Cerulean City Autumn.tmx": {
             "scale": 0.47128906249999997,
@@ -76,6 +85,14 @@
                 "y": 1060
             }
         },
+        "Lavender Town/Lavender Town Spring.tmx": {
+            "scale": 0.7501041666666666,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 483.93278711290105,
+                "y": 320.6221358144703
+            }
+        },
         "Pallet Town/Pallet Town Autumn.tmx": {
             "scale": 0.63828125,
             "selectedLayer": 4,
@@ -110,7 +127,7 @@
         },
         "Peweter City/Peweter City Spring.tmx": {
             "scale": 0.43503605769230763,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 832.1149330017959,
                 "y": 736.7205415112586
@@ -142,26 +159,26 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets",
-    "map.height": 45,
+    "map.height": 15,
     "map.lastUsedFormat": "tmx",
-    "map.width": 53,
+    "map.width": 20,
     "openFiles": [
-        "Vermilion City/Vermilion City Autumn.tmx"
+        "Celadon City/Celadon City Spring.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
+        "Celadon City/Celadon City Spring.tmx",
+        "Peweter City/Peweter City Spring.tmx",
+        "Lavender Town/Lavender Town Spring.tmx",
         "Vermilion City/Vermilion City Autumn.tmx",
         "Vermilion City/Vermilion City Spring.tmx",
-        "Peweter City/Peweter City Spring.tmx",
         "Cerulean City/Cerulean City Autumn.tmx",
         "Pallet Town/Pallet Town Autumn.tmx",
         "Pallet Town/Pallet Town Spring.tmx",
         "Pallet Town/Pallet Town Winter.tmx",
         "Pallet Town/Pallet Town Summer.tmx",
         "Viridian City/Viridian City Spring.tmx",
-        "Kanto Route 1/Kanto Route 1 Autumn.tmx",
-        "Kanto Route 1/Kanto Route 1 Spring.tmx",
-        "Kanto Route 1/Kanto Route 1 Summer.tmx"
+        "Kanto Route 1/Kanto Route 1 Autumn.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
