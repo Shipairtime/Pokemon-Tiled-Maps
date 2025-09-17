@@ -3,11 +3,17 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Celadon City/Celadon City Spring.tmx",
+    "activeFile": "Fuchsia City/Fuchsia City Spring.tmx",
     "expandedProjectPaths": [
+        "Lavender Town",
+        "Kanto Route 1",
+        "Cerulean City",
+        "Vermilion City",
+        "Viridian City",
+        "Peweter City",
         ".",
-        "Celadon City",
-        "Peweter City"
+        "Pallet Town",
+        "Celadon City"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -31,9 +37,9 @@
         },
         "Celadon City/Celadon City Spring.tmx": {
             "scale": 0.3750520833333333,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 959.8666851826137,
+                "x": 906.5407582280242,
                 "y": 833.2176086654633
             }
         },
@@ -43,6 +49,14 @@
             "viewCenter": {
                 "x": 768.1060920016577,
                 "y": 639.7347699958558
+            }
+        },
+        "Fuchsia City/Fuchsia City Spring.tmx": {
+            "scale": 0.4688151041666666,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 767.8933481460908,
+                "y": 655.9089015414527
             }
         },
         "Kanto Route 1/Kanto Route 1 Autumn.tmx": {
@@ -159,14 +173,15 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets",
-    "map.height": 15,
+    "map.height": 41,
     "map.lastUsedFormat": "tmx",
-    "map.width": 20,
+    "map.width": 43,
     "openFiles": [
-        "Celadon City/Celadon City Spring.tmx"
+        "Fuchsia City/Fuchsia City Spring.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
+        "Fuchsia City/Fuchsia City Spring.tmx",
         "Celadon City/Celadon City Spring.tmx",
         "Peweter City/Peweter City Spring.tmx",
         "Lavender Town/Lavender Town Spring.tmx",
@@ -177,8 +192,7 @@
         "Pallet Town/Pallet Town Spring.tmx",
         "Pallet Town/Pallet Town Winter.tmx",
         "Pallet Town/Pallet Town Summer.tmx",
-        "Viridian City/Viridian City Spring.tmx",
-        "Kanto Route 1/Kanto Route 1 Autumn.tmx"
+        "Viridian City/Viridian City Spring.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
