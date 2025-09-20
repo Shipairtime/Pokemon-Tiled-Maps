@@ -3,17 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Fuchsia City/Fuchsia City Spring.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
-        "Lavender Town",
-        "Kanto Route 1",
-        "Cerulean City",
-        "Vermilion City",
-        "Viridian City",
-        "Peweter City",
         ".",
-        "Pallet Town",
-        "Celadon City"
+        "Fuchsia City"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -53,7 +46,7 @@
         },
         "Fuchsia City/Fuchsia City Spring.tmx": {
             "scale": 0.4688151041666666,
-            "selectedLayer": 4,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 767.8933481460908,
                 "y": 655.9089015414527
@@ -147,6 +140,14 @@
                 "y": 736.7205415112586
             }
         },
+        "Saffron City/Saffron City Spring.tmx": {
+            "scale": 0.3409564393939394,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1055.853353700875,
+                "y": 896.0088876544926
+            }
+        },
         "Vermilion City/Vermilion City Autumn.tmx": {
             "scale": 1,
             "selectedLayer": 3,
@@ -173,14 +174,14 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets",
-    "map.height": 41,
+    "map.height": 56,
     "map.lastUsedFormat": "tmx",
-    "map.width": 43,
+    "map.width": 66,
     "openFiles": [
-        "Fuchsia City/Fuchsia City Spring.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
+        "Saffron City/Saffron City Spring.tmx",
         "Fuchsia City/Fuchsia City Spring.tmx",
         "Celadon City/Celadon City Spring.tmx",
         "Peweter City/Peweter City Spring.tmx",
@@ -191,8 +192,7 @@
         "Pallet Town/Pallet Town Autumn.tmx",
         "Pallet Town/Pallet Town Spring.tmx",
         "Pallet Town/Pallet Town Winter.tmx",
-        "Pallet Town/Pallet Town Summer.tmx",
-        "Viridian City/Viridian City Spring.tmx"
+        "Pallet Town/Pallet Town Summer.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
