@@ -3,10 +3,9 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Indigo Plateau/Indigo Plateau Spring.tmx",
     "expandedProjectPaths": [
-        ".",
-        "Fuchsia City"
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -44,12 +43,28 @@
                 "y": 639.7347699958558
             }
         },
+        "Cinnabar Island/Cinnabar Island Spring.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 636,
+                "y": 235.5
+            }
+        },
         "Fuchsia City/Fuchsia City Spring.tmx": {
             "scale": 0.4688151041666666,
             "selectedLayer": 8,
             "viewCenter": {
                 "x": 767.8933481460908,
                 "y": 655.9089015414527
+            }
+        },
+        "Indigo Plateau/Indigo Plateau Spring.tmx": {
+            "scale": 0.833449074074074,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 431.9400083321762,
+                "y": 319.7555895014582
             }
         },
         "Kanto Route 1/Kanto Route 1 Autumn.tmx": {
@@ -94,7 +109,7 @@
         },
         "Lavender Town/Lavender Town Spring.tmx": {
             "scale": 0.7501041666666666,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 483.93278711290105,
                 "y": 320.6221358144703
@@ -174,25 +189,26 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets",
-    "map.height": 56,
+    "map.height": 20,
     "map.lastUsedFormat": "tmx",
-    "map.width": 66,
+    "map.width": 27,
     "openFiles": [
+        "Indigo Plateau/Indigo Plateau Spring.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
-        "Saffron City/Saffron City Spring.tmx",
+        "Indigo Plateau/Indigo Plateau Spring.tmx",
+        "Cinnabar Island/Cinnabar Island Spring.tmx",
+        "Lavender Town/Lavender Town Spring.tmx",
         "Fuchsia City/Fuchsia City Spring.tmx",
+        "Saffron City/Saffron City Spring.tmx",
         "Celadon City/Celadon City Spring.tmx",
         "Peweter City/Peweter City Spring.tmx",
-        "Lavender Town/Lavender Town Spring.tmx",
         "Vermilion City/Vermilion City Autumn.tmx",
         "Vermilion City/Vermilion City Spring.tmx",
         "Cerulean City/Cerulean City Autumn.tmx",
         "Pallet Town/Pallet Town Autumn.tmx",
-        "Pallet Town/Pallet Town Spring.tmx",
-        "Pallet Town/Pallet Town Winter.tmx",
-        "Pallet Town/Pallet Town Summer.tmx"
+        "Pallet Town/Pallet Town Spring.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
