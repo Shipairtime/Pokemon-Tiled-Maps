@@ -3,8 +3,9 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Indigo Plateau/Indigo Plateau Spring.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
+        "Kanto Routes",
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -193,7 +194,6 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 27,
     "openFiles": [
-        "Indigo Plateau/Indigo Plateau Spring.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
