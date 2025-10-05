@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Kanto Routes/Kanto Route 5/Kanto Route 5 Spring.tmx",
     "expandedProjectPaths": [
         "Kanto Routes",
         "."
@@ -108,6 +108,38 @@
                 "y": 1060
             }
         },
+        "Kanto Routes/Kanto Route 2/Kanto Route 2.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 257.33333333333326,
+                "y": 2420.6666666666665
+            }
+        },
+        "Kanto Routes/Kanto Route 3/Kanto Route 3.tmx": {
+            "scale": 0.2500347222222222,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1439.8000277739202,
+                "y": 417.9419525065963
+            }
+        },
+        "Kanto Routes/Kanto Route 4/Kanto Route 4 Spring.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 867.9999999999999,
+                "y": 768.6666666666667
+            }
+        },
+        "Kanto Routes/Kanto Route 5/Kanto Route 5 Spring.tmx": {
+            "scale": 0.6598046875,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 768.4092120063939,
+                "y": 635.7942099342845
+            }
+        },
         "Lavender Town/Lavender Town Spring.tmx": {
             "scale": 0.7501041666666666,
             "selectedLayer": 3,
@@ -190,13 +222,18 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets",
-    "map.height": 20,
+    "map.height": 40,
     "map.lastUsedFormat": "tmx",
-    "map.width": 27,
+    "map.width": 48,
     "openFiles": [
+        "Kanto Routes/Kanto Route 5/Kanto Route 5 Spring.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
+        "Kanto Routes/Kanto Route 5/Kanto Route 5 Spring.tmx",
+        "Kanto Routes/Kanto Route 4/Kanto Route 4 Spring.tmx",
+        "Kanto Routes/Kanto Route 3/Kanto Route 3.tmx",
+        "Kanto Routes/Kanto Route 2/Kanto Route 2.tmx",
         "Indigo Plateau/Indigo Plateau Spring.tmx",
         "Cinnabar Island/Cinnabar Island Spring.tmx",
         "Lavender Town/Lavender Town Spring.tmx",
@@ -204,11 +241,7 @@
         "Saffron City/Saffron City Spring.tmx",
         "Celadon City/Celadon City Spring.tmx",
         "Peweter City/Peweter City Spring.tmx",
-        "Vermilion City/Vermilion City Autumn.tmx",
-        "Vermilion City/Vermilion City Spring.tmx",
-        "Cerulean City/Cerulean City Autumn.tmx",
-        "Pallet Town/Pallet Town Autumn.tmx",
-        "Pallet Town/Pallet Town Spring.tmx"
+        "Vermilion City/Vermilion City Autumn.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
